@@ -1,0 +1,12 @@
+"0                       []
+1              [seniority]
+2            [familiarity]
+3        [functionalities]
+4                       []
+               ...        
+34106                   []
+34108                   []
+34109     [all applicants]
+34110                   []
+34111        [negotiation]
+Name: RAW DATA, Length: 15677, dtype: object"
