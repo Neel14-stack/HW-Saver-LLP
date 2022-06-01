@@ -1,10 +1,10 @@
-RAW DATA
+Technical Skills
 Java Streams
 Object Oriented analysis
 Relational Databases
 SQL
 ORM
-JPA
+JPA2
 Hibernate
 MyBatis
 Git.. Familiarity
@@ -48,7 +48,7 @@ REST APIs servicesExperience writing tools
 Ruby
 PerlExperience
 Bazel
-HTTP /websocket
+HTTP 2/websocket
 Redis
 Web UIExperience
 JavaScript
@@ -61,7 +61,7 @@ Knockout
 UI Component libraries
 Vue
 Bootstrap
-ES
+ES6
 TypeScript
 Dependency injection patterns
 Async Module Definition
@@ -114,6 +114,7 @@ UI frameworks
 Hadoop / Hive / Presto
 ML/AI frameworks
 TensorFlow
+H20
 Mesos
 Kubernetes
 Application benchmarking
@@ -136,14 +137,14 @@ React JS
 JS/TypeScript
 Webpack bundling
 Dev tools
-HTML
-CSS
+HTML5
+CSS3
 SCSS
 Mysql
 Postgres
 Data modeling skills
 Detail Design phases
-Minimum  year Java design and development experience
+Minimum 1 year Java design and development experience
 Spring and Hibernate based solutions
 High-Quality Deliverables
 SOPs
@@ -170,8 +171,9 @@ Coda
 ETL
 AWS technologies
 Redshift
+S3
 EMR
-EC
+EC2
 DynamoDB
 Kinesis Firehose
 Lambda
@@ -299,7 +301,7 @@ SDLC
 Agile
 Micro-services architecture
 OpenShift
-K cluster
+K8 cluster
 Nginx/Ingres
 API Gateway
 Service Mesh
@@ -390,7 +392,7 @@ Ph.D.
 ML techniques
 SVMs
 Entrepreneurial and positive attitude
-Fortune  companies
+Fortune 500 companies
 Bachelor's degree
 Networking
 HTTPS/SSL
@@ -436,7 +438,7 @@ React web app development
 UIs
 Experience building API gateways
 CI/CD technology
-Real-time D/D applications
+Real-time 2D/3D applications
 Mentor
 TPM
 VM/container management
@@ -467,7 +469,7 @@ Kibana/Grafana
 Logstash
 Python/Kotlin/Go
 Real Time transaction protocols/methods
-HTTP
+HTTP2
 MQTT
 UDP
 Operability
@@ -484,8 +486,8 @@ Raft and Paxos variants
 Build and architect systems
 TDDs
 Bachelor’s Degree
-FP games
-FP success
+F2P games
+F2P success
 Obj-C
 Exceptional problem solving
 B.S.
@@ -565,7 +567,7 @@ Strong reasoning
 Android dev
 JS/AngularJS dev
 MVVM
-"CameraX, Dagger"
+"CameraX, Dagger2"
 TensorFlow lite
 KMM
 Kotlin Multiplatform Mobile
@@ -623,7 +625,6 @@ RDBMS
 UI design tradeoffs
 Master's Degree
 Bachelor's Degree Computer Science
-Pillar
 AngularJS
 ASP.NET
 Web API
@@ -722,7 +723,7 @@ Strong written/verbal communication skills
 Bachelor degree
 "Highly motivated, enthusiastic, and a positive thinker"
 VxWorks
-RTX
+RTX64
 RTEMS
 Communications interfaces
 SPI
@@ -743,7 +744,7 @@ MFA
 SSPR
 ATA
 FIM/MIM
-L/L production support
+L2/L3 production support
 Qualifications
 Microsoft Active Directory
 Azure AD Zero Trust components implementation
@@ -758,8 +759,8 @@ Intune
 Conditional Access \\ MDM \\ MAM
 Tenant \\ Security & Compliance Center
 Archiving
-M Security & Compliance  Strong PowerShell scripting skills
-Microsoft  security and strategy discussions
+M365 Security & Compliance  Strong PowerShell scripting skills
+Microsoft 365 security and strategy discussions
 IaaS/PaaS/SaaS platforms
 GCP certifications
 Scope Key Candidate Skills
@@ -939,8 +940,8 @@ VM
 Agile development and testing processes
 WLAN advanced security protocols
 WPA
-WPA
-WPA
+WPA2
+WPA3
 RADIUS protocol
 Selenium
 AEM
@@ -953,7 +954,7 @@ Methodical approach
 Dialogs
 Templates
 ClientLibs
-ES JavaScript
+ES6 JavaScript
 Storybook.js
 CDW offerings
 Reviews peer’s designs
@@ -1037,8 +1038,8 @@ Azure Functions
 Azure DevOps experience
 YAML
 Azure AD Identity
-BB
-BC
+B2B
+B2C
 An enthusiastic and self-motivated individual
 Excellent verbal and written communication skills
 Excellent customer relation and communication skills
@@ -1047,8 +1048,8 @@ Microsoft Certifications
 Brainstorm
 Frontend Frameworks
 Appium
-EE Smart Devices
-EE architecture
+E2E Smart Devices
+E2E architecture
 API design
 Mentor junior developer
 BS Degree
@@ -1094,7 +1095,7 @@ JUnit
 WireMock
 AWS services
 RDS
-S etc
+S3 etc
 Python experience
 Atlassian Suite
 SNMP
@@ -1152,7 +1153,7 @@ EKS
 GoLang
 Strong familiarity
 Istio
-EE Mobile Calling
+E2E Mobile Calling
 Android or iOS experience
 CI pipelines
 CD methodologies
@@ -1162,7 +1163,7 @@ Agile development methodologies
 CI/CD infrastructure
 CS/Engineering
 Relay
-Typescript/ES
+Typescript/ES6
 Less/Sass
 Jest/Enzyme or equivalent tools
 Vue.js
@@ -1184,7 +1185,7 @@ Node.js  NPM
 Yarn
 Gatsby
 Nuxt
-EE
+E2E
 Hybris components
 SMEs
 Hybris-based technology
@@ -1288,7 +1289,7 @@ Object-Oriented Programming
 Spring BOOT backend REST services
 Angular UI applications
 RDBMS databases
-DB
+DB2
 Oracle Http Web server
 Oracle WebLogic application server/Tomcat
 Spring framework / Spring Boot
@@ -1323,7 +1324,7 @@ GUI application development
 C++ GUI toolkit
 FreeRTOS
 ARM Cortex-M. Experience
-Molex’s Industry . SaaS suite
+Molex’s Industry 4.0 SaaS suite
 SPA
 Object-Oriented Programming concepts
 Excellent problem-solving skills
@@ -1384,7 +1385,7 @@ IVR Services
 Coursework
 JEE
 JSF
-Web . technologies
+Web 2.0 technologies
 RESTful API Modeling Language
 RAML
 Java Enterprise Applications
@@ -1404,14 +1405,14 @@ Computer Science Fundamentals
 FinTech domain
 Agile scrum methodologies
 DevOps processes
-Version tools
+Version1 tools
 REST frameworks
 Core Java development experience
 Core Java concepts
 Sybase
 UDB
 Javascript applications
-CSS
+CSS2
 B.Tech./B.E./M.Tech./MCA
 Java/Scala
 Hadoop/Spark
@@ -1468,7 +1469,7 @@ Java-based services
 Oracle Commerce
 ATG
 Java EE
-JEE
+J2EE
 EJB
 JSP
 Advanced proficiency
@@ -1497,7 +1498,7 @@ Point Firewall
 Firewall automation platformZscaler Cloud
 SAML Integrations
 Azure ADSonicWall/Pulse Secure/Prisma VPN
-IPv
+IPv4
 Security related Professional qualifications
 Blue Coat BCCPA
 Service management qualifications
@@ -1572,7 +1573,7 @@ React Native and significant experience
 Security metrics delivery
 CCPA compliance management
 Strong analytical thinking
-OWASP Top  security risks
+OWASP Top 10 security risks
 API's a plus
 AWS Sagemaker
 Scrum techniques
@@ -1609,7 +1610,7 @@ SOAP APIs
 Leanplum
 Google Analytics Experience
 Comfortable communicating technical/complex information
-KS
+K8S
 ElasticSearch
 Visualforce
 Apex
@@ -1648,7 +1649,7 @@ Zuora
 Eloqua
 "Excellent problem-solving, analytical and investigative skills"
 Enterprise application/integration experience
-Tier- level support/Application troubleshooting experience
+Tier-3 level support/Application troubleshooting experience
 Excellent work ethic
 Web Service/Rest API/SOAP API integration experience
 JBOSS/Web/Server hosting platform background
@@ -1754,7 +1755,7 @@ OS fundamentals
 UX designers
 VLAN
 BGP
-IPv
+IPv6
 Spirent
 Wifi / Cellular testing experience
 ESXi
@@ -1803,7 +1804,7 @@ Documentation
 User Personas
 Quarterly Architecture Summits
 UI Development
-CSSObject Oriented Design
+CSS3Object Oriented Design
 UI libraries
 MUI
 Material UI
@@ -1862,17 +1863,17 @@ ITSM
 ITIL
 CMDB
 ServiceNow's ServiceWatch and/or Discovery tools
-Java / JEE web (UI) applications
+Java / J2EE web (UI) applications
 POC
 Full Stack Developer
-Java/JEE
+Java/J2EE
 Javascript frameworks
 UX tools
-JAVA/JEE
+JAVA/J2EE
 SQL/PLSQL
 Core Java code
 Java Collections
-JAVA/JEE and UI web component
+JAVA/J2EE and UI web component
 Understanding basics
 PL/SQL
 EXTJS/Angular UI Framework
@@ -1898,7 +1899,6 @@ Looker
 SDKs
 Google APIs
 Unity packages
-D maths
 CI / CD tools
 Our tech stack
 Canada’s top-performing dev team
@@ -1930,6 +1930,7 @@ Theano
 M.S.
 Serverless
 Apollo GraphQL
+F5
 Use Sentry
 IaC tools
 Pulumi
@@ -1951,7 +1952,7 @@ Engaging and mentoring team members
 MPC
 Blockchains
 GDPR
-SOCv
+SOCv2
 CCPA
 Affinity
 Java or Java-based tools
@@ -2007,7 +2008,7 @@ DDP.. Experience
 Docker/Container.. Experience
 Software-Defined Radios
 SCPI
-VITA- Radio Transport protocol
+VITA-49 Radio Transport protocol
 "E-Comm, POS"
 Net Core/SQL
 Ecommerce Platforms
@@ -2075,7 +2076,7 @@ Strong Work Ethic
 Thoughtfulness
 Index/Benchmarks
 Typically a technical Bachelor's degree
-PL/
+PL/1
 VB.Net
 Magnolia
 Rest/JSON API endpoints
@@ -2218,7 +2219,7 @@ ITIL processes
 CI/CD solutions
 UI/UX
 Concept functionalities
-ES/ES
+ES5/ES6
 ECMAScript
 JSON Web Token
 A knack
@@ -2280,20 +2281,20 @@ Strong knowledge web fundamentals
 WCAG AA compliance
 "C#, ASP.NET/Web API"
 Full Stack Developers
-"Framework .,."
+"Framework 4.0,4.5"
 VB
 Basics
 Grunt
 Gulp
 Bower
 Backbone.js
-MongoDB.. JEE
+MongoDB.. J2EE
 Apache
 Nginx
 ISS
 Express.js
 CakePHP
-EPIME analysis reports
+EPI2ME analysis reports
 Report Builder
 React/StencilJS
 Jest/Karma test frameworks
@@ -2301,7 +2302,7 @@ Cloud platform deployment
 Electron
 Webpack / Rollup
 Gitlb CI/CD
-DO- requirements
+DO-330 requirements
 Mentor verification test team member
 Microprocessor
 Microcontrollers
@@ -2311,7 +2312,7 @@ JAMA
 BITBUCKET
 JIRA tools
 Python · Experience
-A communication protocol
+A429 communication protocol
 Key Accountabilities
 Extensive expertise
 Apache Beam
@@ -2326,17 +2327,18 @@ Blazor
 Critical Thinkers
 Martech integrations
 These integrations
-Google Analytics UA/GA
+Google Analytics UA/GA4
 Permutive
 Google Optimise
 PB
 Strong organizational skills
-Java/JEE technologies
+Java/J2EE technologies
 Strong microservices
 Frameworks
 Angular Version
 Full stack development experience
 Apigee
+D3
 SVG
 WebGL
 HTML / CSS / SVG
@@ -2364,8 +2366,7 @@ EHS policy
 GKN
 Work'aligning
 A relevant accredited Engineering Degree
-D CAD
-CATIA V
+CATIA V5
 GSD
 CPD
 GD&T
@@ -2486,7 +2487,7 @@ Jaeger
 OOP and code design
 MySQL databases
 XDebug
-HTML
+HTML4
 XHMTL
 Javascript/JQuery experience
 Composer
@@ -2622,7 +2623,7 @@ Zapier's all-hands philosophy
 Object Relational Model
 RAD) tools
 SharePoint Online
-O suite
+O365 suite
 Azure platform
 Builds
 Release Orchestration tool
@@ -2669,6 +2670,7 @@ SEO considerations
 CIO
 SAAS
 DevOps environments
+D365
 Azure technology - ability
 Azure components
 Azure functions
@@ -2676,7 +2678,7 @@ LogicApps
 Azure Devops
 Powershell
 Azure CLI
-D API.. experience
+D365 API.. experience
 Kofax
 XpertDoc
 WorkDay
@@ -2715,7 +2717,7 @@ Useful – manual and automated software testing experience and dashboard creati
 Highly motivated self-starter
 Strong problem-solving and analytical skills
 Mirth Connect
-HL V.x / FHIR based interface messages
+HL7 V2.x / FHIR based interface messages
 JSON formats
 OO architecture
 MVC design
@@ -2786,7 +2788,7 @@ Custom loops
 Custom taxonomies
 Advanced / customized search Working
 CSS grids
-HTML Boilerplate
+HTML5 Boilerplate
 WordPress starter themes
 Third-party APIs Experience Designing User Interfaces (UI) Interactive and Animated elements
 UI developer
@@ -2870,11 +2872,8 @@ IXL’s technical implementations
 A solid grasp
 Microsoft SQL Server or Azure databases
 ETL/ELT patterns
-G specifications
-G products
 RU
 Linux OS
-GPP
 ORAN protocols
 RRC
 SDAP
@@ -2890,13 +2889,13 @@ Data Modeling
 Vulkan
 GPU
 QNX customers
-D and D graphics
+X86
 A thorough understanding
 OpenGL/OpenGL ES/Vulkan
 Windows NT
-XP/k
+XP/2k
 Excellent communication and interpersonal skills
-HW D/D vendors
+HW 2D/3D vendors
 Android and WebGL implementations
 BlackBerry software products
 Mac OS
@@ -2908,9 +2907,9 @@ Jupyter
 QNX kernel
 POSIX
 System-level QNX
-BB experience
-ISO
-IEC
+BB10 experience
+ISO26262
+IEC61508
 Filesystem expertise
 Compiler expertise
 Linux/Android embedded environment
@@ -2939,12 +2938,11 @@ Flutter
 Mobile Angular
 NativeScript
 Snr
-Assoc./ Level  - Intermediate
+Assoc./ Level 2 - Intermediate
 Modelling
 Postgraduate Degree
 MSOffice
 Bids
-D modelling
 Testing Frameworks
 React-Testing-Library
 Java/PHP
@@ -2999,8 +2997,8 @@ Work Order EIDL
 Support customer’s platform validation tests
 Procurementand Program Management Office
 MIL
-MIL-STD-
-STD-
+MIL-STD-461
+STD-464
 College diploma
 Proven experience leading complex Systems Engineering programs
 PEng
@@ -3008,7 +3006,7 @@ Qualifications Bachelor's degree
 Java Stack
 Sprint Boot
 Spring MVC
-Java  Streams
+Java 8 Streams
 OpenShift/Kubernetes
 Symfhony
 Database query
@@ -3130,7 +3128,6 @@ Clinical Data Repository
 Wi-Fi
 TS
 Angular and Restful API
-D Graphical data
 Programmatic advertising yield management
 QA custom ad creatives
 Invoice handling
@@ -3159,7 +3156,7 @@ Java Applications
 Vue.. Intermediate proficiency
 Agile software development principles
 Groovy/Grails
-COVID-
+COVID-19
 Conduct code walkthrough sessions
 ExtJS
 Incidental telecommuting
@@ -3179,11 +3176,11 @@ Traka’s products
 ASP.NET MVC
 WinForms
 WPF
-WebAPI
+WebAPI2
 Xamarin/MAUI
 Kotlin - RESTful APIs - GIT - Android Studio - Debugging - Software development lifecycle
 ASP.Net/C# MVC Pattern Javascript CSS SQL
-Net.
+Net4.5
 Full-Stack skills
 JavaScript/jQuery
 Angular/React
@@ -3203,7 +3200,7 @@ SQL databases
 Implements domain solutions
 Configures servers
 Java programming
-JEE and web frameworks
+J2EE and web frameworks
 Python scripting experience
 Professional IT Certification.. Ability
 Essential Characteristics BSc
@@ -3229,7 +3226,7 @@ Dask
 Developing APIs
 FastAPI
 NHSL
-Neoj
+Neo4j
 DDD
 Ecochain
 Event sourcing
@@ -3242,14 +3239,14 @@ PCB layout
 Altium Designer
 Design embedded software
 "EMC, safety"
-EN
+EN601010
 Design automated solutions
 A qualification
 Altium
 NodeJSDriven
 RESTful API development
 Startup experience
-KS operators
+K8S operators
 Demonstrable skills
 Service Catalog items
 Server-side scripts
@@ -3353,8 +3350,8 @@ AWS SDKs
 Immutable
 Database fundamentals
 AWS RDS
-Experience/Qualifications - years
-Angular +
+Experience/Qualifications 3-6 years
+Angular 2+
 Boot Strap
 CSS.Backend
 Agile Environments
@@ -3448,7 +3445,7 @@ Asp.Net
 Html/JavaScript
 SREs
 Instrumentation
-Level staff
+Level1 staff
 Broad Interests - SREs
 Application/DB admin and development Engineers
 SRE - Proactive
@@ -3519,10 +3516,10 @@ ServiceNow System Administration Certified
 UI flows
 C++ - Shipped production code
 SQLite Database
-ARM Cortex-M/M/M
+ARM Cortex-M0/M3/M4
 GNU toolchain
 UART
-IC
+I2C
 DMA
 Electrical/Electronics Engineering or Computer Science
 Greengrass
@@ -3611,7 +3608,7 @@ Fivetran
 Matillion
 BE/BTech degree
 DevOps • Experience
-"Ansible, Terrraform, YAML, Helm, and AWS services - Cloud, CloudFormation • Working knowledge"
+"Ansible, Terrraform, YAML, Helm, and AWS services - Cloud9, CloudFormation • Working knowledge"
 Confluence/Notion
 Docker/Kubernetes
 MVC architecture
@@ -3625,9 +3622,9 @@ Self-reliant and Team player
 Analytic thinker
 Object Orientated Programming/Design
 Restful web services development
-Spring / and microservices development
+Spring 4/5 and microservices development
 Gitlab runner / Junit / Sonar
-Cocosd
+Cocos2d
 Flixel
 Arcade
 Pygame
@@ -3637,6 +3634,7 @@ Autosar configuration tools
 Davinci configurator
 Davinci developer
 LIN
+J1939
 Certifications
 Any\xa0relevant certification
 Demonstrated skill sets
@@ -3728,7 +3726,7 @@ Kotlin or Java programming
 UI automation
 Troubleshooting
 API based web services experience
-Slfj
+Slf4j
 REST/RESTful services
 Java Persistence API
 Powershell scripting
@@ -3755,7 +3753,7 @@ Thunk etc
 Ex. Jasmine
 Ex. Karma
 Strong programming and problem-solving skills
-Java / JEE technologies
+Java / J2EE technologies
 Algorithms and Data structures
 Java IO
 NIO
@@ -3808,9 +3806,8 @@ Underscore.js
 Java development experienceSkills
 Modern JavaScript
 Micro services applications
-Lpa- + years
 Excellent Javascript knowledge
-ES
+ES5
 Angular- Experience
 NgRx
 NgXs- Experience
@@ -3863,7 +3860,7 @@ AWS/GCP services
 Linux operating system
 Robot Operating System/Django web applications
 Websockets
-Grade B/B
+Grade B3/B4
 Test Automation leader
 Emerson Innovation Center-
 Pune
@@ -3878,13 +3875,14 @@ Engineering Electronics / Instrumentation / System Software
 Embedded firmware/software development
 GCC
 Embedded Firmware Developer
-B / B
+B3 / B4
 RTOS
 A willingness
 Verbal English
 BLDC
 Stepper
 PID
+J1850
 ARM core processors
 MISRA C
 Multimeter
@@ -3905,7 +3903,7 @@ Swagger/Open API
 BDD & TDD practices
 Solace
 MVC design patterns/frameworks
-HTML CSS
+HTML5 CSS
 LAMP stack
 Tech branding
 Automated Deployments
@@ -3938,7 +3936,7 @@ SAP Business Objects
 SQL development
 SAP Business Object Enterprise Server administration
 Pega Development
-PRPC version  x Development Essential PRPC Certified Systems Architect
+PRPC version 8 x Development Essential PRPC Certified Systems Architect
 PRPC Rule Connect
 Flows Activities Declarative rules
 PAL PLA DB Trace Tracer
@@ -3951,8 +3949,8 @@ Senior Salesforce Commerce Cloud Developer
 The JD
 REQUIRED QUALIFICATIONS
 PSDs
-XHTML/HTML
-CSS/CSS
+XHTML/HTML5
+CSS/CSS3
 Previous experience Eclipse IDE
 Salesforce Commerce Cloud
 Magento
@@ -3972,14 +3970,14 @@ IBM
 Novell
 RBAC
 QA duties
-JEE certification
+J2EE certification
 CISSP certification
 Senior Blockchain Developer
 Demonstrable quality
 Full Stack development credentials
 Hyper Ledger Fabric architecture
 RPC
-OAuth
+OAuth2
 GitHub/Gitlab
 Service Line Application Development and Maintenance Additional Responsibilities
 Devops->AWS
@@ -4002,9 +4000,9 @@ JAX-RS
 CDI
 Styled Comp
 Sanity
-Minimum years+ experience
+Minimum10 years+ experience
 IBM iSeries platforms
-Minimum years+ experience
+Minimum 10years+ experience
 RPGLE
 Strong SQL Skills
 Ticketing Applications
@@ -4026,7 +4024,7 @@ Technical support provider
 Customer Centricity
 English Language skill - appropriate UK qualification
 SELT pass
-B CEFR scale
+B1 CEFR scale
 Ecctis
 Git.. Experience
 Our Tech Stack
@@ -4041,7 +4039,7 @@ Scrum framework
 ERP and CRM systems
 Sage
 Infor
-BC / BB / WMS solutions
+B2C / B2B / WMS solutions
 VBS
 Proactive interaction
 Software Craftsmanship
@@ -4058,9 +4056,9 @@ RESTful API Services
 DDB
 Data Pipelines
 Struts
-Java and JEE internals
+Java and J2EE internals
 EJB Life Cycle
-HK
+HK2
 Fluent Interface design pattern
 DSL
 "Python, R"
@@ -4081,7 +4079,7 @@ Airbus Electrical Standard Practices Manual
 ELA
 CSS Database
 OEM system architecture
-D qualification
+D0160 qualification
 PAX and/or Freighter reconfiguration projects
 "Creative, collaborative, and innovative thinking"
 Strong work ethic
@@ -4131,12 +4129,12 @@ ELT related tasks
 Insights
 S-FTP
 Continuous Integration/ Continuous Deployment
-JEE Web Development and Spring Boot
+J2EE Web Development and Spring Boot
 REST architectural style
 TS/SCI clearance
 Java Beans
 PKI
-DoD  Compliant Security+
+DoD 8570 Compliant Security+
 CISSP Certification
 Openness
 Excellent teamwork
@@ -4168,7 +4166,7 @@ Java.. Knowledge / experience
 UNIX/Linux environments
 AWS Cloud Service offerings
 Additional valued skills
-Dynamics  CRM
+Dynamics 365 CRM
 A systematic and analytical approach
 C#/.NET/ MVC
 Stakeholder Engagement
@@ -4228,6 +4226,7 @@ VoIP systems
 UCS
 Veeam
 Cloud computing platforms
+O365
 SharePoint administration
 Endpoint Manager
 SoW
@@ -4244,7 +4243,7 @@ Lightning Component Framework
 "Excellent organizational, verbal and written communication skills"
 API Programming Language
 Git and Visual Studio IDE
-Angular  experience
+Angular 8 experience
 Integrate third party
 CI/CD environments
 DevOps / SRE teams
@@ -4393,7 +4392,7 @@ Food Data Science and Analytics team
 Upskill
 Essential: Data visualisation/user experience design skills/ testing solutions
 PowerApps
-Microsoft Power Platform Developer PL- accreditation
+Microsoft Power Platform Developer PL-400 accreditation
 Synapse
 Food retail or FMCG experience
 Generators
@@ -4445,7 +4444,7 @@ Heating and Ventilation Building Services
 Guilds Parts
 GCSE
 City & Guilds Certificate
-BS  standard
+BS 7671 standard
 ONC/HNC
 City & Guilds Part
 Uninterruptible Power Supply
@@ -4538,7 +4537,7 @@ Mule RTF
 Cloudbub
 Managed File Transfers
 SANS
-FOR
+FOR572
 The postholder
 Alcumus Group
 Install processes
@@ -4588,8 +4587,7 @@ PlayCanvas
 JavaScript front-end and SPA frameworks
 UI development
 HTML and CSS frameworks
-D packages
-Autodesk ds Max. -Ability
+Autodesk 3ds Max. -Ability
 Professional animation programming experience
 Priceline's business
 Showcase fluency
@@ -4680,7 +4678,7 @@ Analytical Thinking
 Leverages methods
 Oversees testing
 QA/Testing methodology
-DNP
+DNP3
 Modbus
 Labview
 Citect
@@ -4688,7 +4686,7 @@ Iconics
 WonderWare
 Rockwell
 Cellular
-IEC
+IEC61850
 OPC Server / Client
 Matlab / Simulink
 Schneider
@@ -4706,12 +4704,8 @@ Leverage game analytics
 QA systems
 Unreal Engine automation tools
 Technical/quantitative university degree
-GPP G/G
 ORAN
 Electronics and Communication Engineering
-GPP G LTE
-G LTE Advanced
-G NR
 LTE/NR physical layer
 RF measurement
 Wyoming
@@ -4801,7 +4795,7 @@ Load balancing
 Linux Operating systems-
 AWS Route
 Senior Software Developer Project Role Description
-G Work Experience
+G140 Work Experience
 Bengaluru
 Good documentation
 ANSI SQL Oracle
@@ -4864,15 +4858,15 @@ Building API data
 SQL datasets
 Power BI experts
 Microsoft Azure Tools & ETL processes
-Java-JEE Development Extensive technical experience
-JEE framework and data architectures
+Java-J2EE Development Extensive technical experience
+J2EE framework and data architectures
 Spring MVC Framework
 "CI/CD..  Strong analytical, problem-solving, and troubleshooting skills"
-Github..  Angular  Added Advantage
+Github..  Angular 10 Added Advantage
 Any Specialization
 Zoom
-Magento.x
-Magento.x
+Magento1.x
+Magento2.x
 API integration
 Plugin development
 Magento platform
@@ -4925,7 +4919,7 @@ API's using respective client tools
 Requisition code
 Industrial gateway
 MBTCP
-L/L
+L2/L3
 Datacom
 Industrial IoT
 IoT Edge related architecture
@@ -4980,8 +4974,8 @@ AWS API Gateway / Mulesoft API
 Excellent communications and teamwork skills
 Fluent English
 Truffle Suite
-ERC
-EC
+ERC20
+EC721
 DeFi
 Metaverse
 NFT Marketplace
@@ -5025,8 +5019,6 @@ CANalyzer
 CANape
 INCA
 Vehicle Ethernet network
-BASE-T
-BASE-T
 Ethernet Node/network Protocol Conformance testing
 TPT
 Tessy tools
@@ -5055,7 +5047,7 @@ OEM/Onsite experience
 Strong coding ability
 Frontend Development
 Openshift
-Ks
+K8s
 OWASP MASVS
 ASVS
 Strong c oding ability
@@ -5146,10 +5138,10 @@ FM radio
 Qualcomm Application DSP
 Modem DSP software
 GDB
-Trace
+Trace32
 QXDM
 Audio Hardware interfaces
-MIS
+MI2S
 TDM
 PCM
 Hypervisor
@@ -5183,15 +5175,15 @@ Demonstrated embedded system software development experience
 Linux and Android multimedia software
 Android HAL
 ALSA
-VL
+V4L2
 GLES
-Codec
+Codec2
 QualCOMM SoC multimedia application/driver development experience
 Linux user mode and kernel mode
 Gstreamer
 OMX etc
 Automotive OEMs
-Tier-s
+Tier-1s
 ISVs
 Qualcomm Automotive platforms
 Android multimedia software
@@ -5214,7 +5206,7 @@ Gensim
 NLTK
 Skills AND Qualification Excellent verbal and written communication skills
 User Interfaces
-HTML/CSS
+HTML5/CSS3
 Data Mart
 Cloud Platforms - Ms Azure
 Data Bricks
@@ -5316,7 +5308,7 @@ AWS Aurora/Dynamo DB/Redshift or Azure alternatives
 "Agile, SCRUM"
 Git-based version control
 Microsoft Azure Certifications
-Azure BC
+Azure B2C
 Bachelors Degree
 TypeScript based web applications
 Strong written and verbal communications skills
@@ -5324,11 +5316,11 @@ Microsoft Office suite
 SAP BW/BI solutions
 SAP BW modelling
 BW Query development experience
-SAP ECC / S/HANA DataSource extraction
+SAP ECC6 / S/4HANA DataSource extraction
 ABAP development
 Excellent communication and organisation skills
 SC Clearance
-Desirable: BW/HANA development experience
+Desirable: BW/4HANA development experience
 BI presentation tool development experience
 SAP Lumira
 SAP HANA development techniques
@@ -5358,6 +5350,7 @@ Performance Testing Frameworks
 WebDriverIO
 CI and CD practices
 Neoload
+K6
 Artillery
 Sale Specialists
 "Pre-Sales, Solutions Architecture teams"
@@ -5384,7 +5377,7 @@ ETL Pipelines
 Infrastructure Reliability
 Archival.. Data Integrations
 Continuous Data Transformation Processes
-"Neoj, MongoDb"
+"Neo4j, MongoDb"
 InfluxDb
 PostGIS
 Prometheus Db
@@ -5439,7 +5432,7 @@ Express Js
 Amazon RDS ●\xa0Automation and Collaboration Tools
 Jira/Confluence
 MS Teams ●\xa0Web/Application Servers
-Java Web Server ●\xa0 yrs+
+Java Web Server ●\xa04 yrs+
 MERN/Node.js Stack
 Sprint planning
 UI/UX Designers
@@ -5516,7 +5509,7 @@ Agile software development lifecycles
 Quality Assurance capabilities
 Front End Coding
 End Coding + Practical Projects
-UE
+UE4
 UI and interaction systems
 AR/VR
 Automotive content
@@ -5530,7 +5523,7 @@ Applicants
 Google ecosystems
 Azure AD
 Log bugs
-Ideally at least  year QA experience
+Ideally at least 1 year QA experience
 Delphi
 Firebird
 Demonstrable Software Development experience
@@ -5546,7 +5539,7 @@ Adaptable and flexible approach
 NIST
 TSR
 "Excellent documentation, design and presentation skills"
-IT/OT and rd party vendors
+IT/OT and 3rd party vendors
 CISSP accreditation
 AV
 IT related vendors
@@ -5615,19 +5608,20 @@ The Senior Azure Engineer
 The SAE
 SME level knowledge
 Microsoft Azure infrastructure
-Microsoft M
+M365
+Microsoft M365
 Azure.. Act
 At least three certifications
 Microsoft Azure / Public Cloud
-AZ-
-AZ-
-AZ-
-AZ-
+AZ-303
+AZ-304
+AZ-500
+AZ-400
 CompTIA Net+
-ECMS
-ECMS
+ECMS1
+ECMS2
 CBROP
-MS-
+MS-101
 Other advanced certifications
 Microsoft Windows-based infrastructure
 Microsoft Azure based infrastructure
@@ -5676,7 +5670,7 @@ Good interpersonal and communication skills
 Conduct code walkthroughs
 ContextAPI
 Responsive Web Design
-WC standards
+W3C standards
 Azure experience
 Backend Development tools
 Agile development framework
@@ -5692,7 +5686,7 @@ Primefaces
 JSP JSF
 Primefaces.. Design systems
 Debugging and Troubleshooting technical issues
-Core Java / JEE backend development
+Core Java / J2EE backend development
 Spring MVC/Struts
 User Interface design and development experience
 Vue.. Experience writing unit test cases
@@ -5928,7 +5922,7 @@ Java technologies
 Javascript based frameworks
 Calypso Technology
 Cloud Technology / AWS
-API Gateway EC
+API Gateway EC2
 CDN
 Auto Scaling
 Elastic Beanstalk
@@ -5949,7 +5943,7 @@ SQL based data bases
 PortgresSQL
 Angular / React UI Development
 Iteratively
-CSS Exposure
+CSS3 Exposure
 AWS/Azure
 Toplyne
 Kafka OR Elastic search
@@ -6012,7 +6006,7 @@ Autosar
 AWS IaaS Administration
 Python / Go / Ruby / Javascript
 Managing cloud based infrastructure
-"Python, Go, Ruby, JavaScript, Shell/Bash Scripting, Java, HTML & CSS experience"
+"Python, Go, Ruby, JavaScript, Shell/Bash Scripting, Java, HTML5 & CSS experience"
 Web frameworks
 Code repository best practices
 Git Flow
@@ -6047,12 +6041,12 @@ Gainsight
 Bachelors/ Masters
 Java/Swift experience
 Android Keyboard API
-Min - yrs
+Min 8-12 yrs
 Active Directory Administration
 "DNS, DHCP, GPO, ADCS"
 SQL Server Administration
 Co-located Datacenter Design
-IPv – AD and Server Environments
+IPv6 – AD and Server Environments
 Structured and unstructured data backup
 Okta Administration
 Intune/SCCM Administration
@@ -6089,6 +6083,7 @@ Microsoft technology stacks
 Enterprise Integration
 OpenIDConnect
 WS-Security
+X509
 "MSSQL server /RDBMS, experience"
 Ubuntu
 Ubuntu rates
@@ -6162,7 +6157,7 @@ Strong communication and interpersonal skills
 ASP.Net MVC
 Entity framework
 RDBMS especiallySQL Server
-CSS and Material UI
+CSS3 and Material UI
 Knowledge inGraph QL
 Experience withDocker
 Skills And Qualifications\xa0 Strong proficiency
@@ -6175,6 +6170,7 @@ SAS Enterprise Guide
 Your Key Attributes  Strong data analysis
 Exceptional communication and presentation skills
 Charismatic personality
+K8
 Micronaut/Kotlin
 DevOps Support
 Networking concepts
@@ -6197,7 +6193,7 @@ Microfocus Load Runner
 Katalon
 Microfocus Loadrunner
 Bootstrap Angular
-Full Stack Java/JEE software design and development experience
+Full Stack Java/J2EE software design and development experience
 Algorithm Design
 AWS Glue
 AWS Lake FormationAzure
@@ -6262,7 +6258,7 @@ SOAPBuild Systems
 SBT
 GradleDocker
 Proficiency and enterprise work experience
-Angular (Angular +
+Angular (Angular 2+
 Data Technology Consultants
 Any object-oriented/object function scripting language
 Azure: Storage
@@ -6303,25 +6299,26 @@ Spring Batch
 SQLNice
 JMS/MQ
 Splunk/Dynatrace
-CSSExperience
+CSS3Experience
 Mainframe/Backend Systems - Knowledge
 SmartBear
 Reporting - Jira
 Mainframe Automation
 Serenity
 Excellent communication and documentation skillsEnglish
+B2
 Smart Contract security audits
 NFT related protocols
-ERC-
-ERC
+ERC-721
+ERC1155
 Solidity contracts
-L networks
+L2 networks
 Polygon
 Slither
 Echidna
 Mythril
 HW bring-up
-ARM Cortex M/A
+ARM Cortex M4/A7
 LINUX
 IIC
 FPGA development
@@ -6335,14 +6332,13 @@ DevOps frameworks
 Informatics solutions
 High School / GED
 High learning agility
-Office  Power Platform environment tools
+Office 365 Power Platform environment tools
 SQL reporting
-Hands-on hour series
+Hands-on 1hour series
 PPAP documentation
 APQP
 FMEA
 NCE-Prototype
-D methodology
 Lead PFMEA
 Zero Defect program
 Electrical or Mechanical Engineering Degree
@@ -6360,22 +6356,19 @@ TD services
 Skillsets Required
 Now related configurations
 SQL/NoSQL database
-G RAN
 OAM
 OEM solutions
-G networks
 SCTP
 Precision Timing Protocol
 PTP
 Fronthaul
 Midhaul
 Backhaul
-G/G SW development experience
 Carrier grade Transport solution
 "Organized, goal-oriented, self-starter"
 Demonstrable C/C++ programming experience
 AWS IoT
-"RDS, S"
+"RDS, S3"
 EKS/ECS
 Python frameworks
 Python Data Science Libraries
@@ -6387,8 +6380,8 @@ BSPs
 SPI and Ethernet protocols
 OpenVG
 Champion core DevOps behaviors
-Azure Certifications AZ-
-AZ-
+Azure Certifications AZ-900
+AZ-203
 NodeJs applications
 Octopus Deploy
 GitHub Enterprise
@@ -6443,7 +6436,7 @@ ARM Templates
 GCP Templates
 Workplace culture enthusiast
 Infrastructure and Cybersecurity teams
-O environment
+O365 environment
 OneDrive
 OS deployment configuration
 WIM files
@@ -6456,25 +6449,25 @@ Video Conferencing systems
 Bayshore EA standards
 XDR technologies
 ATP
-Windows  OS and associated services
+Windows 10 OS and associated services
 AAD
 Azure MFA
 SSO Apps
 AAD connect
-M tenant/applications
+M365 tenant/applications
 ProPlus
 Enterprise Mobility
 Smartphones
-O solution design
+O365 solution design
 DMZ architecture
 Security and Privacy Frameworks
 PIPEDA
 PHIPA
-SOC
+SOC2
 Microsoft Graph
 IaaC
 Ansible/Terraform
-Microsoft O
+Microsoft O365
 Modern Desktop Administrator Associate
 Identity Fundamentals
 Logitech
@@ -6505,13 +6498,13 @@ J SON et PowerShell
 PowerBI or data visualization tools
 Full lifecycle application development
 "Angular, Java"
-HL FHIR
+HL7 FHIR
 SPA application development
 "Angular, Bootstrap"
-"HTML/CSS/JS, ES"
+"HTML/CSS/JS, ES6"
 OpenID Connect
 RedHat OpenShift
-HL
+HL7
 A completed Bachelor's degree
 Actuarial Science
 ICAAP models
@@ -6526,7 +6519,7 @@ Accomplishments
 Microsoft Azure cloud development experience
 Perks
 MVP releases
-MM interfaces
+M2M interfaces
 NoSQL/KV Stores
 Messaging Queuing Services
 GitHub use
